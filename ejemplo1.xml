@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"href="file:/ C:\Users\HP\Documents\PRACTICA5A190394\ejemplo1.xsl">
+<Biblioteca>
+  <libro>
+    <nombre>El señor de los anillos</nombre>
+    <autor>J.R.R. Tolkien</autor>
+</libro>
+<libro>
+  <nombre> Cien años de soledad</nombre>
+  <autor>Gabriel García Márquez</autor>
+</libro>
+<libro>
+  <nombre>1984</nombre>
+  <autor>George Orwell</autor>
+</libro>
+</Biblioteca>
